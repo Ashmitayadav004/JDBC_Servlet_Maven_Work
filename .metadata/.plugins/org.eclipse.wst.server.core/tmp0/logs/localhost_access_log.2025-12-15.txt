@@ -1,0 +1,16 @@
+127.0.0.1 - - [15/Dec/2025:00:10:58 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:10:58 +0530] "GET /MvcDesignPattern/ HTTP/1.1" 200 1968
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:10:58 +0530] "GET /MvcDesignPattern/assets/css/style.css HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:10:59 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:18:47 +0530] "POST /MvcDesignPattern/adminLogin.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:18:49 +0530] "GET /MvcDesignPattern/dashboard.jsp HTTP/1.1" 200 3490
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:18:49 +0530] "GET /MvcDesignPattern/assets/css/style.css HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:19:22 +0530] "GET /MvcDesignPattern/register.jsp HTTP/1.1" 200 2609
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:19:22 +0530] "GET /MvcDesignPattern/assets/css/style.css HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:19:56 +0530] "GET /MvcDesignPattern/login.jsp HTTP/1.1" 200 2196
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:19:56 +0530] "GET /MvcDesignPattern/assets/css/style.css HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:20:38 +0530] "POST /MvcDesignPattern/loginForm HTTP/1.1" 200 1949
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:20:39 +0530] "GET /MvcDesignPattern/assets/css/style.css HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:21:06 +0530] "GET /MvcDesignPattern/Logout HTTP/1.1" 200 2196
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:21:06 +0530] "GET /MvcDesignPattern/assets/css/style.css HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [15/Dec/2025:00:21:15 +0530] "POST /MvcDesignPattern/adminLogin.jsp HTTP/1.1" 200 256

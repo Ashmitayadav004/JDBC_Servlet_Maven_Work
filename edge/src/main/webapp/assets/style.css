@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100% !important;
+	padding: 2px 0;
+	font-size: 14px;
+	height: 230px;
+}
+
+.navbar{
+	width: 100% ;
+	position: fixed;
+	top: 0;
+	
+
+}
+
+.container{
+	margin-top:80px;
+}
